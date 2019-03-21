@@ -15,7 +15,6 @@ public class resultActionListener implements ActionListener{
 	char p='p';
 	String dataBaseFile;
 	String dataBaseIndexes;
-	
 	JTextArea resultArea;
 	JRadioButton p1;
 	JRadioButton p2;
